@@ -1,6 +1,6 @@
-# Hi 👋, I'm Abhik Kumawat
+# Hi I'm Abhik Kumawat
 
-### 🚀 Developer | AI & ML Enthusiast | Full-Stack Learner | Cybersecurity Explorer
+### Developer | AI & ML Enthusiast | Full-Stack Learner | Cybersecurity Explorer
 
 <p align="left">
   I'm passionate about building technology, exploring Artificial Intelligence, developing full-stack applications, and learning about cybersecurity.
@@ -8,7 +8,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 * 🎓 Enthusiastic Undergraduate & Technology Learner
 * 🤖 Passionate about **Artificial Intelligence, Machine Learning & Deep Learning**
@@ -19,7 +19,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### 💻 Programming Languages
 
